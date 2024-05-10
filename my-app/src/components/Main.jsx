@@ -10,10 +10,10 @@ const Main = () => {
                 Explore a world of gaming nostalgia and adventure. RePlay offers a curated
                 collection of classic games and ROMs for various consoles.
                 </p>
-                <Link to="/Emulator" className="button games2">
+                <Link to="https://replay-azure.vercel.app/Emulator" className="button games2">
                     <b>Discover Emulators</b>
                 </Link>
-                <Link to="/Roms" className="button roms2">
+                <Link to="https://replay-azure.vercel.app/Roms" className="button roms2">
                     <b>Discover ROMs</b>
                 </Link>
             </section>
